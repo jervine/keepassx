@@ -5,7 +5,7 @@ Summary:        Cross-platform password manager
 Group:          User Interface/Desktops
 License:        GPLv2+
 URL:            http://www.keepassx.org/
-Source0:        https://github.com/jervine/%{name}/archive/%{version}-alpha6.tar.gz
+Source0:        https://github.com/jervine/%{name}/archive/%{version}.tar.gz
 BuildRequires:  qt-devel >= 4.6, libXtst-devel, desktop-file-utils, libgcrypt-devel, zlib-devel, cmake >= 2.6.4
 Requires:       hicolor-icon-theme, qt >= 4.6
 
